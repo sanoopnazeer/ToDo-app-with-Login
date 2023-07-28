@@ -1,0 +1,27 @@
+.note-history-section {
+  width: 62%;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(213, 213, 213);
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.note-history-container {
+    /* background-color: blueviolet; */
+    width: 100%;
+    padding: 20px;
+}
+
+.note-history{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: bisque; */
+}
+
+.note-history button,input{
+    margin-right: 10px;
+}
